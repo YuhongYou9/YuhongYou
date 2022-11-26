@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yuhong You</h1>
-- 🔭 I’m currently working on **building up my GitHub profile with data analysis projects.**
 
-- 👯 I’m looking to collaborate on **any of the presented data-analysis projects or open to other projects.**
 
-- 📄 I’m currently learning [Junior Data Analyst Program at NPower Canada.](https://npowercanada.ca/junior-data-analyst-program/)
 
-- 💻 All of my data analysis projects are available at [https://github.com/yuhongyou9/Data-Analysis.](https://github.com/yuhongyou9/Data-Analysis)
+- 🔭 I’m currently working on building up my GitHub profile with data analysis projects. 
+- 🌱 I’m currently learning Junior Data Analyst Program at NPower Canada. 
+- 👯 I’m looking to collaborate on any of the presented data-analysis projects or open to other projects. 
+- 📫 How to reach me: email me or connect on LinkedIn. 
+- ⚡ Fun fact: I enjoy travelling and cooking when I'm not coding. 
 
-- ⚡ Fun fact **I enjoy travelling and cooking when I'm not coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yuhong-you/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuhong-you/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yuhong-you/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuhong-you/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
