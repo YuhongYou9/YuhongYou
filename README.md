@@ -2,11 +2,12 @@
 
 
 
-- 🔭 I’m currently working on building up my GitHub profile with data analysis projects. 
-- 🌱 I’m currently learning Junior Data Analyst Program at NPower Canada. 
-- 👯 I’m looking to collaborate on any of the presented data-analysis projects or open to other projects. 
-- 📫 How to reach me: email me or connect on LinkedIn. 
-- ⚡ Fun fact: I enjoy travelling and cooking when I'm not coding. 
+- 🔭 I’m currently working on **building up my GitHub profile with data analysis projects.** 
+- 📄 I’m currently learning [Junior Data Analyst Program](https://npowercanada.ca/junior-data-analyst-program/) at NPower Canada.
+- 👯 I’m looking to collaborate on **any of the presented data-analysis projects or open to other projects.** 
+- 💻 All of my data analysis projects are available at [https://github.com/yuhongyou9/Data_Analysis.](https://github.com/yuhongyou9/Data_Analysis)
+- 📫 How to reach me: **[email](yuhong.you9@gmail.com) me or connect on [LinkedIn](https://www.linkedin.com/in/yuhong-you/).** 
+- ⚡ Fun fact: **I enjoy travelling and cooking when I'm not coding.** 
 
 
 <h3 align="left">Connect with me:</h3>
